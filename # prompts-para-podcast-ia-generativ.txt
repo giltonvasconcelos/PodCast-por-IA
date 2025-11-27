@@ -1,0 +1,64 @@
+
+https://copilot.microsoft.com/
+
+https://elevenlabs.io/
+
+
+
+---
+
+# prompts-para-podcast-ia-generativa
+
+---
+
+
+
+## Nome do podcast
+
+Você é um roteirista de podcast, e vamos criar um podcast cristão, com foco em ansiedade na atualidade e eu preciso de ajuda para criar 3 sugestões de nomes criativos para um podcast de ansiedade moderna realizado por pastores evangélicos, e que contenha algum símbolo Bíblico no nome
+
+O podcast falará sobre dicas de como achar a saída para a ansiedade em um contexto Bíblico
+
+#{REGRAS}
+
+> O nome deve ser o mais enxuto possível, um nome e um subtítulo
+> O nome tenha algum símbolo Bíblico bastante conhecido no meio cristão como balsamo, pomba, óleo, águas tranquilas, salmo 23 ou mãos
+> O nome deve conter alguma palavra que cause impacto voltado para saída da ansiedade
+> O nome precisa conter a palavra: ansiedade
+
+#{REGRAS NEGATIVAS}
+
+> Não quero que o título contenha palavras de difícil entendimento
+> Não quero que utilize nenhuma das palavras nessa lista: árvore, casa, arca
+> Não utilize a palavra Bíblico ou Bíblia no nome nem qualquer variação dela
+
+
+
+
+---
+
+## Episódio de Podcast
+
+Você é um roteirista de podcast, e vamos criar um  roteiro de um podcast de conteúdo cristão, focado em cura para ansiedade cujo o nome é "**Bálsamo na Ansiedade -** *Esperança e alívio para dias de aflição*" e tem foco em textos Bíblicos para mostrar de forma clara a saída da ansiedade ,  com o público alvo de pessoas que estão sofrendo com ansiedade
+
+#o formato do roteiro deve ser
+[INTRODUÇÃO]
+[TEXTO1]
+[TEXTO 2]
+[FINALIZAÇÃO]
+
+#{REGRAS}
+
+> no bloco [INTRODUÇÃO] substitua por uma introdução iguais as introduções dos vídeos do canal '@AugustoCury', como se fossem escritos pelo Augusto Cury
+> no bloco [TEXTO1] substitua por uma texto Bíblico
+> no bloco [TEXTO 2] sobre palavras de Jesus
+> no bloco [FINALIZAÇÃO] substitua por uma despedida cool com o final 'Paz seja convosco, eu sou o Lucas e esse foi o **Bálsamo na Ansiedade** dessa semana'
+> use termos de fácil explicação
+> O podcast vai ser apresentado somente por uma pessoa, chamada Lucas
+> O podcast deve ser curto
+> O podcast deve ser em um clima de descontração
+
+#{REGRAS NEGATIVAS}
+
+> Não use muitas palavras difíceis
+> Não ultrapasse 5 minutos de duração
