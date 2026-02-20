@@ -1,3 +1,4 @@
+![Texto Alternativo](https://github.com/giltonvasconcelos/PodCast-por-IA/blob/main/assets/cover.jpg)
 # 🎙️ Conexões: Tecnologia e Inconsciente – Podcast Gerado por I.A.s
 
 **ℹ️ NOTE:** Este projeto foi desenvolvido para o bootcamp **DIO Universia – Fundamentos de IA Generativa**, como desafio de criação de um podcast utilizando ferramentas de inteligência artificial.
