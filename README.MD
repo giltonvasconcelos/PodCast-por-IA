@@ -100,7 +100,7 @@ Prompt utilizado para a capa:
 
 ## 📱 Onde Ouvir e Acompanhar
 
-- 🎧 **Spotify** – [link do episódio]
+- 🎧 **Spotify** – [https://open.spotify.com/episode/1m5ycCKbV6XkjLlPhPmMMY?si=yK9vKkMATYuBdiOW_k4Vrw]
 - 📺 **YouTube** – [link do canal/playlist]
 - 🐙 **GitHub** – [github.com/giltonvasconcelos/conexoes-podcast](https://github.com/giltonvasconcelos)
 
