@@ -1,7 +1,3 @@
-Aqui está uma versão intermediária da página MD — mais completa que o resumo, mas mais enxuta que a primeira, com todos os links e créditos solicitados.
-
----
-
 # 🎙️ Conexões: Tecnologia e Inconsciente – Podcast Gerado por I.A.s
 
 **ℹ️ NOTE:** Este projeto foi desenvolvido para o bootcamp **DIO Universia – Fundamentos de IA Generativa**, como desafio de criação de um podcast utilizando ferramentas de inteligência artificial.
