@@ -1,10 +1,11 @@
-## 🧠 Prompts
+## 🧠 Prompts em Copilt refinado pelo DeepSeek
 
 
 ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+|  título  | Crie um tema  de um podcast criado por IA com o objetivo como parte do bootcamp DIO Universia – Fundamentos de IA Generativa, dentro de um desafio de projeto com a base na minha formação Técnico em TI e Psicanalista em percurso                                                   |
+| conteúdo | Criar script para gravação do 1º episódio do Podcast conforme o tema criado acima apresente um expemplo prático baseado em uma situação problema queda de energias no departamento financeiro em dia de pagamento e analise as reações das pessoas nesse contexto e como a escuta analítica pode ser de ajuda para compreender a sua ligação com o tema do podcast  |
+| ajuste |
 
