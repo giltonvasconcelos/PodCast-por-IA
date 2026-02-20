@@ -53,13 +53,11 @@ A partir dessa base, *Conexões: Tecnologia e Inconsciente* foi desenvolvido com
 
 | Ferramenta | Função |
 |------------|--------|
-| **ChatGPT** | Geração e refinamento do roteiro do episódio piloto |
+| **Copilot** | Geração e refinamento do roteiro do episódio piloto |
 | **DeepSeek** | Aprofundamento conceitual e apoio na documentação |
 | **ElevenLabs** | Locução do episódio com voz natural |
-| **MidJourney** | Criação da arte da capa |
+| **Leonardo.IA** | Criação da arte da capa |
 | **CapCut** | Edição final, trilha sonora e ajustes de áudio |
-| **Google Scholar / Perplexity** | Consulta a referências acadêmicas |
-
 ---
 
 ## ✨ Como foi feito?
@@ -68,10 +66,10 @@ A partir dessa base, *Conexões: Tecnologia e Inconsciente* foi desenvolvido com
 
 O processo criativo seguiu uma esteira integrada de ferramentas e etapas:
 
-1. **Roteiro** → gerado e refinado com ChatGPT + revisão autoral
-2. **Conceitos** → consultas ao DeepSeek e fontes acadêmicas
-3. **Locução** → gerada via ElevenLabs
-4. **Arte da capa** → criada no MidJourney
+1. **Roteiro** → gerado e refinado com Copilot https://copilot.microsoft.com/
+2. **Conceitos** → consultas ao DeepSeek https://chat.deepseek.com/
+3. **Locução** → gerada via ElevenLabs https://elevenlabs.io/
+4. **Arte da capa** → criada no Leonardo.ai https://app.leonardo.ai/
 5. **Edição** → realizada no CapCut (trilha, cortes, ajustes)
 6. **Documentação** → estruturação desta página MD
 
@@ -88,7 +86,7 @@ Utilize prompts reflexivos. Exemplo:
 ### 🔊 2. Locução (ElevenLabs)
 Exporte o roteiro final e gere o áudio escolhendo uma voz com tom acolhedor.
 
-### 🎨 3. Arte (MidJourney)
+### 🎨 3. Arte (MidJourney) ou (Leonardo.AI)
 Prompt utilizado para a capa:
 > *"A podcast cover artwork showing the connection between technology and the unconscious mind, split composition: left side shows a human brain with digital circuit patterns, right side shows a computer server with organic flowing elements, warm colors, ethereal and reflective mood --ar 1:1 --v 6"*
 
