@@ -102,7 +102,7 @@ Prompt utilizado para a capa:
 
 - 🎧 **Spotify** – [https://open.spotify.com/episode/1m5ycCKbV6XkjLlPhPmMMY?si=yK9vKkMATYuBdiOW_k4Vrw]
 - 📺 **YouTube** – [link do canal/playlist]
-- 🐙 **GitHub** – [github.com/giltonvasconcelos/conexoes-podcast](https://github.com/giltonvasconcelos)
+- 🐙 **GitHub** – [https://github.com/giltonvasconcelos/PodCast-por-IA](https://github.com/giltonvasconcelos)
 
 ---
 
