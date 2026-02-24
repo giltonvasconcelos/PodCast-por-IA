@@ -1,7 +1,8 @@
+
 <img src="https://github.com/giltonvasconcelos/PodCast-por-IA/blob/main/assets/cover.jpg" alt="Seja Bem Vindo ao IA PodCast" width="400">
 # 🎙️ Conexões: Tecnologia e Inconsciente – Podcast Gerado por I.A.s
 
-**ℹ️ NOTE:** Este projeto foi desenvolvido para o bootcamp **DIO Universia – Fundamentos de IA Generativa**, como desafio de criação de um podcast utilizando ferramentas de inteligência artificial.
+**ℹ️ NOTE:** Este projeto foi desenvolvido para o bootcamp **DIO Universia – Fundamentos de IA Generativa**, como desafio de criação de um podcast utilizando ferramentas de inteligência artificial. @felipeAguiarCode
 
 ---
 
@@ -101,7 +102,6 @@ Prompt utilizado para a capa:
 ## 📱 Onde Ouvir e Acompanhar
 
 - 🎧 **Spotify** – [https://open.spotify.com/episode/1m5ycCKbV6XkjLlPhPmMMY?si=yK9vKkMATYuBdiOW_k4Vrw]
-- 📺 **YouTube** – [link do canal/playlist]
 - 🐙 **GitHub** – [https://github.com/giltonvasconcelos/PodCast-por-IA]
 
 ---
